@@ -48,7 +48,7 @@ for(let i = 0; i < biler.length; i++){
 
 ## Citat med kilde
 >
-"With great power comes great responsabitlity"
+"With great power comes great responsibility"
 
 _-Uncle Ben_
 >
